@@ -26,7 +26,6 @@
       reprehenderit est!
     </p>
     <hr />
-
     <h3>Educator at SSS Inter College</h3>
     <p>
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora cum
@@ -40,7 +39,6 @@
       consectetur reiciendis deserunt similique.
     </p>
     <hr />
-
     <h2>Skills</h2>
     <!-- how to comment -->
     <!-- I want to add skills list -->
@@ -53,7 +51,6 @@
       <li>System Design</li>
       <li>UI and UX Design</li>
     </ul>
-
     <hr />
     <h2>Hobbies</h2>
     <ol>
